@@ -2,7 +2,7 @@
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+AIM:
 
  To control the status of the given lamp by using two–way switches. 
 
@@ -69,7 +69,9 @@ TABULATION:1
 CROSS CONNECTION:
 
 CIRCUIT DIAGRAM:
-<img width="940" height="575" alt="Screenshot 2026-10-23 154545" src="https://github.com/user-attachments/assets/1568a1d4-5e07-4a53-bac2-0b2807391c31" />
+
+<img width="907" height="566" alt="Screenshot 2026-10-24 153632" src="https://github.com/user-attachments/assets/4d7ef9af-b052-4f26-94b5-8bdfe374fea5" />
+
 
 TABULATION 2:
 <img width="1280" height="631" alt="WhatsApp Image 2026-10-24 at 3 14 36 PM" src="https://github.com/user-attachments/assets/7c0bd24a-f8a5-4dad-a199-5736192fd11b" />
